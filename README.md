@@ -1,5 +1,5 @@
 # About Me:
-Ethical hacker, web developer, and tech enthusiast focused on security, OSINT, and building cutting-edge web applications. I love exploring the depths of cybersecurity and creating open-source tools to help the community. Always eager to learn and innovate. Explore my projects, or connect with me at yashk.app.
+Ethical hacker, web developer, and tech enthusiast focused on security, OSINT, and building cutting-edge web applications. I love exploring the depths of cybersecurity and creating open-source tools to help the community. Always eager to learn and innovate. Explore my projects, or email me@yashk.app.
 
 
 ## 🌐 Socials:
